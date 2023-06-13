@@ -1,0 +1,4 @@
+projects\aws_module_project\.terraform.lock.hcl
+projects\aws_module_project\.terraform\terraform.tfstate
+projects\aws_module_project\terraform.tfstate
+projects\aws_module_project\terraform.tfstate.backup
